@@ -1,0 +1,11 @@
+number1=int(input("write any number here:"))
+number2=int(input("write any number here:"))
+number3=int(input("write any number here:"))
+
+print(number1+number2+number3)
+print(number1-number2-number3)
+print(number1/number2/number3)
+print(number1%number2%number3)
+print(number1*number2*number3)
+print(number1**number2**number3)
+print(number1//number2//number3)

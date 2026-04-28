@@ -4,7 +4,7 @@ age=input("your age:")
 number=input("fav number:")
 
 
-print(name)
-print(lastname)
-print(age)
-print(number)
+print("name is:" , name)
+print("lastname is:" ,lastname)
+print("age is:" , age)
+print("favourite number is:" , number)

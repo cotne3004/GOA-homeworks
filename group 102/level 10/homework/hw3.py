@@ -11,8 +11,8 @@ count = 1
 
 while count <= num:
     if count % 2 == 0:
-        print('this number is odd', count)
-    else:
         print('this number is even', count)
+    else:
+        print('this number is odd', count)
 
     count += 1

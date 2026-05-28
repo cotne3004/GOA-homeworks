@@ -37,24 +37,22 @@ while True:
         reg_user = input('enter your username:')
         reg_email = input('enter your email:')
         reg_pass = input('enter your password:')
-        # reg_user.append(username)
-        # reg_email.append(email)
-        # reg_pass.append(password)
         print('registration succesfully')
+#გვაბრუნებს მენიუში
 
-
+#თუ მომხმარებელი აირჩევს ლოგინს
     elif user_choice == '2':
         print('login')
         login_email = input('enter your email:')
         login_password = input('enter your password:')
-
+#ვამოწმებთ ემთხვევა თუარა შემოტანილი მონაცემები რეგისტრაციის მონაცემებს
         if login_email == reg_email and login_password == reg_pass:
             print('login succesfully')
-            break
+            break #თუ სწორად შეიყვანა ყველაფერი ჩერდება ციკლი
         else:
             print('something went wrong try again later:')
-
+#თუ აირჩია მომხმარებელმა პროგრამის გაჩერება
     elif user_choice == "3":
-        break
+        break #ვთიშავტ პროგრამას
 
     

@@ -1,0 +1,44 @@
+#h11{
+    color: brown;
+    background-color: aqua;
+    text-align: center;
+    border: blueviolet;
+    border-radius: 15px;
+}
+
+#h22{
+    color: aqua;
+    background-color: darkgreen;
+    text-align: right;
+    border-radius: 50px;
+    border: hotpink;
+}
+
+#div11{
+    color: darkgreen;
+    background-color: darkgoldenrod;
+}
+
+#h222{
+    color: indianred;
+}
+
+#div111{
+    color: white;
+    background-color: green;
+}
+
+#div222{
+    color: white;
+    background-color: green;
+}
+
+#div333{
+    color: white;
+    background-color: green;
+}
+
+#div444{
+    color: white;
+    background-color: green;
+}

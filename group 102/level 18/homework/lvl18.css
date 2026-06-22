@@ -1,0 +1,88 @@
+/* hw1 */
+#colacola{
+    background-color: aqua;
+    border-radius: 15px;
+    border: crimson;
+}
+
+.price{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+/* hw2 */
+
+#divdiv{
+    background-color: darkblue;
+}
+
+#w1{
+    text-align: center;
+    padding: 15px;
+}
+
+#w2{
+    color: black;
+    background-color: red;
+}
+
+/* hw3 */
+
+#youtu{
+    border: firebrick;
+    margin: 50px;
+}
+
+.active{
+    color: yellow;
+    background-color: black;
+}
+
+/* hw4 */
+
+#divdiv{
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    height: 360px;
+    margin: auto;
+}
+
+#hash{
+    text-align: center;
+}
+
+#saxeli{
+    margin: 7px;
+    text-align: left;
+}
+
+#gvari{
+    margin: 7px;
+}
+
+#maili{
+    margin: 7px;
+}
+
+#paroli{
+    margin: 7px;
+}
+
+#isev{
+    margin: 7px;
+}
+
+#chek{
+margin: 7px;
+}
+
+#but{
+    color: white;
+    background-color: rgb(44, 224, 44);
+    text-align: center;
+    font-size: 25px;
+    
+}
